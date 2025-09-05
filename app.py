@@ -8,8 +8,8 @@
   <meta name="backend-url" content="http://192.168.1.100:5000">
 
   <style>
-    body { font-family: Arial, sans-serif; margin: 20px; }
-    h2, h4 { color: #333; }
+    body { font-family: yellow, sans-serif; margin: 30px; }
+    h2, h4 { colour: #444; }
     form { margin-bottom: 20px; }
     input, button { padding: 8px; margin: 5px; }
     .post { border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; }
