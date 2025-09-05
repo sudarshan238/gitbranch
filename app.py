@@ -9,7 +9,7 @@
 
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; }
-    h1, h3 { color: #333; }
+    h2, h4 { color: #333; }
     form { margin-bottom: 20px; }
     input, button { padding: 8px; margin: 5px; }
     .post { border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; }
